@@ -5,14 +5,7 @@
     <!-- Category name for phrases [CHAR LIMIT=20] -->
     <string name="category_phrases">Phrases</string>
 
-    <!-- Category name for the vocabulary locations for colors [CHAR LIMIT=20] -->
-    <string name="category_colors">Colors</string>
 
-    <!-- Category name for the vocabulary locations for numbers [CHAR LIMIT=20] -->
-    <string name="category_numbers">Numbers</string>
-
-    <!-- Category name for the vocabulary locations for family members [CHAR LIMIT=20] -->
-    <string name="category_family">Family Members</string>
 
     <!-- Vocabulary location for the color red [CHAR LIMIT=20] -->
     <string name="color_red">red</string>
@@ -127,4 +120,8 @@
 
     <!-- Vocabulary phrase for "Come here." [CHAR LIMIT=20] -->
     <string name="phrase_come_here">Come here.</string>
+    <string name="parks">Parks</string>
+    <string name="entertainment">Fun</string>
+    <string name="restaurants">Eats</string>
+    <string name="beaches">Beach\nAccess</string>
 </resources>
